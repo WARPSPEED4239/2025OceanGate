@@ -1,4 +1,4 @@
-# 2025OceanGate FRC Robot
+# 2025OceanGate
 
 ## Table of Contents
 - [Overview](#overview)
