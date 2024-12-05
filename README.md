@@ -26,14 +26,14 @@
 - **Dimensions:** [Insert dimensions]
 - **Weight:** [Insert weight]
 - **Top Speed:** [Insert speed]
-- **Power Source:** [Insert power source, e.g., 12V battery]
+- **Power Source:** [12V battery]
 - **Special Features:** [Highlight unique features]
 
 ## Subsystems
 
 ### Drivetrain
 - **Type:** [Tank drive, swerve drive, etc.]
-- **Motors Used:** [Insert motor type and quantity]
+- **Motors Used:** [Kraken x60 Motors Powered by TalonFX]
 - **Additional Features:** [E.g., encoders, gyroscopes, etc.]
 
 ### Manipulator
@@ -52,8 +52,8 @@
 ## Software Architecture
 
 ### Programming Language and Frameworks
-- **Primary Language:** [E.g., Java, C++, Python]
-- **Frameworks/Libraries:** [E.g., WPILib, OpenCV]
+- **Primary Language:** [Java]
+- **Frameworks/Libraries:** [WPILib, PathPlannerLib]
 
 ### Autonomous Mode
 - **Capabilities:** [List autonomous functionalities, e.g., path planning, obstacle avoidance]
@@ -90,6 +90,6 @@
 
 ---
 
-**Maintainers:** [List team members responsible for updates]
+**Last Updated by** [Miguel Garcia]
 
 **Last Updated:** [Insert date]
